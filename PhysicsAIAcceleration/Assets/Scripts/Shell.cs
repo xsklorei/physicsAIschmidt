@@ -11,6 +11,7 @@ public class Shell : MonoBehaviour {
     float force = 4.0f;
     float drag = 1.0f;
     float gravity = -9.8f;
+
     float gAccel;
     float acceleration;
 
